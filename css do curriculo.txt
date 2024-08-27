@@ -1,0 +1,9 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 3px solid rgb(172, 238, 197);
+
+}
+body{
+    background-color: rgb(244, 248, 228);
+}
